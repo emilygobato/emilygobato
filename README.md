@@ -36,16 +36,17 @@
 
 ---
 
+
 ### ✨ Estatísticas do GitHub | GitHub Stats
 
 <div align="center">
 
-<!-- Lembre-se de trocar SEU_USUARIO pelo seu username do GitHub nas duas URLs abaixo -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=emilygobato&show_icons=true&title_color=ff69b4&icon_color=ff1493&text_color=ffb6c1&bg_color=00000000&border_color=ffb6c1&hide_border=false" alt="Estatísticas do GitHub" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilygobato&layout=compact&title_color=ff69b4&text_color=ffb6c1&bg_color=00000000&border_color=ffb6c1&hide_border=false" alt="Linguagens mais usadas" height="165" />
+<!-- Lembre-se de trocar SEU_USUARIO pelo seu username do GitHub -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=emily_gobato&show_icons=true&title_color=ff69b4&icon_color=ff1493&text_color=ffb6c1&bg_color=00000000&border_color=ffb6c1&hide_border=false" alt="Estatísticas do GitHub" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emily_gobato&layout=compact&title_color=ff69b4&text_color=ffb6c1&bg_color=00000000&border_color=ffb6c1&hide_border=false" alt="Linguagens mais usadas" height="165" />
 
 </div>
+
 
 ---
 
