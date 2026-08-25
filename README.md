@@ -40,5 +40,5 @@
 ---
 
 <div align="center">
-  <p><i>Feito com 💖, código e muita fofura!</i></p>
+  <p><i>Feito com 💖!</i></p>
 </div>
