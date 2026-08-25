@@ -28,21 +28,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-
-### ✨ Estatísticas do GitHub | GitHub Stats
-
-<div align="center">
-
-<!-- Lembre-se de trocar SEU_USUARIO pelo seu username do GitHub -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emily_gobato&theme=pink&background=00000000&border=ffb6c1&stroke=ff69b4&ring=ff1493&fire=ff1493&currStreakLabel=ff69b4" alt="GitHub Streak" height="165" />
 
 </div>
 
