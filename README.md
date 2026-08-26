@@ -10,7 +10,9 @@
 
 </div>
 
----
+<div align="center">
+  🎀 ‧͙⁺˚*･༓☾ 💖 ☽༓･*˚⁺‧͙ 🎀
+</div>
 
 ### 🌸 Sobre Mim | About Me
 
@@ -19,7 +21,9 @@
 * 🎓 Estudando **HTML, CSS, JavaScript** para me tornar uma Engenheira de Software.
 * ✨ Sempre aprendendo novas tecnologias e adorando colaborar em projetos funcionais.
 
----
+<div align="center">
+  🎀 ‧͙⁺˚*･༓☾ 💖 ☽༓･*˚⁺‧͙ 🎀
+</div>
 
 ### 🎀 Minhas Tecnologias | Tech Stack
 
@@ -33,7 +37,9 @@
 
 </div>
 
----
+<div align="center">
+  🎀 ‧͙⁺˚*･༓☾ 💖 ☽༓･*˚⁺‧͙ 🎀
+</div>
 
 ### 🐾 Obrigada pela visita!
 
@@ -42,7 +48,9 @@
 <img width="242" height="200" alt="200" src="https://github.com/user-attachments/assets/4b0639dc-b966-4c5f-ad1c-f95318ffc4f8" />
 </div>
 
----
+<div align="center">
+  🎀 ‧͙⁺˚*･༓☾ 💖 ☽༓･*˚⁺‧͙ 🎀
+</div>
 
 <div align="center">
   <p><i>Feito com 💖!</i></p>
