@@ -16,7 +16,7 @@
 ### 🌸 Sobre Mim | About Me
 
 * 💖 **Desenvolvedora** criando projetos incríveis na web!
-* 🎀 **Amante do**, do universo rosa e de uma boa coca ☕.
+* 🎀 **Amante do**,universo dos códigos e de uma boa coca! ☕.
 * 🎓 Estudando **HTML, CSS, JavaScript** para me tornar uma Engenheira de Software.
 * ✨ Sempre aprendendo novas tecnologias e adorando colaborar em projetos funcionais.
 
