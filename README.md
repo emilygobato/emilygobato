@@ -15,9 +15,9 @@
 ### 🌸 Sobre Mim | About Me
 
 * 💖 **Desenvolvedora** criando projetos incríveis na web!
-* 🎀 **Amante da Hello Kitty**, do universo rosa e de um bom café ☕.
-* 🎓 Estudando **HTML, CSS, JavaScript e Java** para me tornar uma Engenheira de Software.
-* ✨ Sempre aprendendo novas tecnologias e adorando colaborar em projetos fofos e funcionais.
+* 🎀 **Amante do**, do universo rosa e de uma boa coca!
+* 🎓 Estudando **HTML, CSS, JavaScript** para me tornar uma Engenheira de Software.
+* ✨ Sempre aprendendo novas tecnologias e adorando colaborar em projetos funcionais.
 
 ---
 
@@ -28,7 +28,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
 
