@@ -15,7 +15,7 @@
 ### 🌸 Sobre Mim | About Me
 
 * 💖 **Desenvolvedora** criando projetos incríveis na web!
-* 🎀 **Amante do**, do universo rosa e de uma boa coca!
+* 🎀 **Amante do**, do universo rosa e de uma boa coca ☕.
 * 🎓 Estudando **HTML, CSS, JavaScript** para me tornar uma Engenheira de Software.
 * ✨ Sempre aprendendo novas tecnologias e adorando colaborar em projetos funcionais.
 
@@ -38,10 +38,12 @@
 ### 🐾 Obrigada pela visita!
 
 <div align="center">
-  <img src="https://media.tenor.com/bCBPVDJvErcAAAAi/hello-kitty-pusheen.gif" width="200px" alt="Hello Kitty e Pusheen dando tchau">
+  <!-- Usei o Truque de Arrastar e Soltar para criar este link perfeito -->
+  <img src="[URL_DO_GATINHO_LIMPO_AQUI]" width="250px" alt="Gatinho fofo de adeus">
 </div>
+
 ---
 
 <div align="center">
-  <p><i>Feito com 💖 e muita fofura!</i></p>
+  <p><i>Feito com 💖!</i></p>
 </div>
