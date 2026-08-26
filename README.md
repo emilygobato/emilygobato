@@ -3,7 +3,7 @@
 # 🎀 Olá, eu sou a Emily! 🎀
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Bem-vindo(o)+ao+meu+perfil!+🌸;Dev+Em+Formação+%26+✨;Coding+with+Me+💖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+perfil!+🌸;Dev+Em+Formação+%26+✨;Coding+with+Me+💖)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd0YWdrcGRkMnBnbnRsaDR5MWp4MmZsZjEwZzZmeTl6cXFhZXk1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJ9IbxxvDUQM/giphy.gif" width="160px" alt="Hello Kitty animada">
 
