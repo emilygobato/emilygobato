@@ -38,8 +38,7 @@
 ### 🐾 Obrigada pela visita!
 
 <div align="center">
-  <!-- Novo Banner Robusto de Final de Perfil -->
-  <img src="URL_DO_NOVO_BANNER_AQUI" width="100%" alt="Banner Final de Emily: Gatinho e Hello Kitty dão tchau">
+  <img src="https://media.tenor.com/bCBPVDJvErcAAAAi/hello-kitty-pusheen.gif" width="200px" alt="Hello Kitty e Pusheen dando tchau">
 </div>
 ---
 
