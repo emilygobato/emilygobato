@@ -20,9 +20,12 @@
 * 🎓 Estudando **HTML, CSS, JavaScript** para me tornar uma Engenheira de Software.
 * ✨ Sempre aprendendo novas tecnologias e adorando colaborar em projetos funcionais.
 
-<div align="center">
-  🎀 ‧͙⁺˚*･༓☾ 💖 ☽༓･*˚⁺‧͙ 🎀
-</div>
+<pre>
+  ／l、     🎀 Miau! 
+（ﾟ､ ｡ ７   
+  l、 ~ヽ   
+  じしf_, )ノ
+</pre>
 
 ### 🎀 Minhas Tecnologias | Tech Stack
 
@@ -36,6 +39,16 @@
 
 </div>
 
+### Minhas Metas de Estudo
+* Terminar meu primeiro site em HTML/CSS
+* Fazer um mini-jogo em JavaScript (Em breve!)
+* Aprender a criar botões interativos
+* Dominar os fundamentos do Java
+
+### Além da Tela
+* 🎧 **Playlist:** Mc Hariel sempre no fone
+* 🍰 **Doces:** Tudo que envolva morango, chocolate e leite ninho.
+* 📺 **Assistindo:** Modern Family
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=emilygobato&color=ff69b4&style=for-the-badge&label=VISITINHAS+🎀" alt="Contador de Visitas" />
