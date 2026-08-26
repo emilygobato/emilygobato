@@ -2,10 +2,9 @@
 
 # 🎀 Olá, eu sou a Emily! 🎀
 
-<!-- Texto Animado Rosa -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+perfil!+🌸;Dev+Em+Formação+%26+Fofura+✨;Coding+with+Hello+Kitty+💖)](https://git.io/typing-svg)
 
-<!-- GIF Fofo da Hello Kitty -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd0YWdrcGRkMnBnbnRsaDR5MWp4MmZsZjEwZzZmeTl6cXFhZXk1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJ9IbxxvDUQM/giphy.gif" width="160px" alt="Hello Kitty animada">
 
 </div>
@@ -37,9 +36,6 @@
 
 </div>
 
-<div align="center">
-  🎀 ‧͙⁺˚*･༓☾ 💖 ☽༓･*˚⁺‧͙ 🎀
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=emilygobato&color=ff69b4&style=for-the-badge&label=VISITINHAS+🎀" alt="Contador de Visitas" />
@@ -48,7 +44,6 @@
 ### 🐾 Obrigada pela visita!
 
 <div align="center">
-  <!-- Usei o Truque de Arrastar e Soltar para criar este link perfeito -->
 <img width="242" height="200" alt="200" src="https://github.com/user-attachments/assets/4b0639dc-b966-4c5f-ad1c-f95318ffc4f8" />
 </div>
 
