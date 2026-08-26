@@ -16,7 +16,7 @@
 
 * 💖 **Desenvolvedora** criando projetos incríveis na web!
 * 🎀 **Amante da Hello Kitty**, do universo rosa e de um bom café ☕.
-* 🎓 Estudando **HTML, CSS, JavaScript** para me tornar uma Engenheira de Software.
+* 🎓 Estudando **HTML, CSS, JavaScript e Java** para me tornar uma Engenheira de Software.
 * ✨ Sempre aprendendo novas tecnologias e adorando colaborar em projetos fofos e funcionais.
 
 ---
@@ -28,6 +28,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
 
@@ -35,13 +36,10 @@
 
 ---
 
-### 📊 Meus Status Mágicos | GitHub Stats
+### 🐾 Obrigada pela visita!
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=emilygobato&show_icons=true&theme=default&bg_color=ffe4e1&title_color=ff1493&icon_color=ff69b4&text_color=ff69b4&hide_border=true" height="150" alt="Estatísticas da Emily" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilygobato&layout=compact&theme=default&bg_color=ffe4e1&title_color=ff1493&text_color=ff69b4&hide_border=true" height="150" alt="Linguagens mais usadas" />
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JqZWg3M2w2aXh3NnBvbnV6YjU1ZjUyaDN0Zmd6cDRtbXN6cTNtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/11c7UUfNTE4Tja/giphy.gif" width="180px" alt="Gatinho fofo dando tchau">
 </div>
 
 ---
