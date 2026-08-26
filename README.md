@@ -41,6 +41,10 @@
   🎀 ‧͙⁺˚*･༓☾ 💖 ☽༓･*˚⁺‧͙ 🎀
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=emilygobato&color=ff69b4&style=for-the-badge&label=VISITINHAS+🎀" alt="Contador de Visitas" />
+</div>
+
 ### 🐾 Obrigada pela visita!
 
 <div align="center">
