@@ -38,9 +38,9 @@
 ### 🐾 Obrigada pela visita!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JqZWg3M2w2aXh3NnBvbnV6YjU1ZjUyaDN0Zmd6cDRtbXN6cTNtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/11c7UUfNTE4Tja/giphy.gif" width="180px" alt="Gatinho fofo dando tchau">
+  <!-- Novo Banner Robusto de Final de Perfil -->
+  <img src="URL_DO_NOVO_BANNER_AQUI" width="100%" alt="Banner Final de Emily: Gatinho e Hello Kitty dão tchau">
 </div>
-
 ---
 
 <div align="center">
