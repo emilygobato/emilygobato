@@ -39,8 +39,8 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=default&bg_color=ffe4e1&title_color=ff1493&icon_color=ff69b4&text_color=ff69b4&hide_border=true" height="150" alt="Estatísticas da Emily" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=default&bg_color=ffe4e1&title_color=ff1493&text_color=ff69b4&hide_border=true" height="150" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats.vercel.app/api?username=emilygobato&show_icons=true&theme=default&bg_color=ffe4e1&title_color=ff1493&icon_color=ff69b4&text_color=ff69b4&hide_border=true" height="150" alt="Estatísticas da Emily" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilygobato&layout=compact&theme=default&bg_color=ffe4e1&title_color=ff1493&text_color=ff69b4&hide_border=true" height="150" alt="Linguagens mais usadas" />
 
 </div>
 
