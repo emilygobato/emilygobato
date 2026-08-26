@@ -39,7 +39,7 @@
 
 <div align="center">
   <!-- Usei o Truque de Arrastar e Soltar para criar este link perfeito -->
-  <img src="[URL_DO_GATINHO_LIMPO_AQUI]" width="250px" alt="Gatinho fofo de adeus">
+<img width="242" height="200" alt="200" src="https://github.com/user-attachments/assets/4b0639dc-b966-4c5f-ad1c-f95318ffc4f8" />
 </div>
 
 ---
