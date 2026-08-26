@@ -1,44 +1,18 @@
-<div align="center">
+<!-- Banner Fofo do Topo -->
+<img src="" width="100%" alt="Hello Kitty & Cute Cats Banner">
 
-# 🎀 Olá, eu sou a Emily! 🎀
+# Olá, mundo! 👋 Bem-vinda ao meu cantinho! 🎀🐾
 
-<!-- Texto Animado Rosa -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+perfil!+🌸;Dev+Full+Stack+%26+Fofura+✨;Coding+with+Hello+Kitty+💖)](https://git.io/typing-svg)
+Sou uma estudante de tecnologia aprendendo a programar e criar sites fofos. Amo gatinhos e coisas rosas! 🌸
 
-<!-- GIF Fofo da Hello Kitty -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd0YWdrcGRkMnBnbnRsaDR5MWp4MmZsZjEwZzZmeTl6cXFhZXk1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJ9IbxxvDUQM/giphy.gif" width="160px" alt="Hello Kitty">
+### 📚 O que estou aprendendo:
+![HTML5](https://img.shields.io/badge/html5-%23F5A5E0.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%23F7D1C1.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-</div>
+### 🚀 Minhas Estatísticas Fofas:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&hide_border=true&theme=default&bg_color=F7E2F7&title_color=E865B8&icon_color=E865B8&text_color=313638&color_1=F5A5E0&color_2=F7D1C1&color_3=313638&color_4=E865B8)
 
----
-
-### 🌸 Sobre Mim | About Me
-
-* 💖 **Desenvolvedora** criando projetos incríveis na web!
-* 🎀 **Amante da Hello Kitty**, do universo rosa e de um bom café.
-* 🎓 Estudando **Engenharia de Software** e **Técnico em Desenvolvimento de Sistemas**.
-* ✨ Sempre aprendendo novas tecnologias e adorando colaborar em projetos.
-
----
-
-### 🎀 Minhas Tecnologias | Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-</div>
-
-
-
----
-
-<div align="center">
-  <p><i>Feito com 💖!</i></p>
-</div>
+### 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23F5A5E0.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN_AQUI)
